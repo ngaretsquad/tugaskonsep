@@ -6,7 +6,7 @@ def option():
 	print("4.keluar")
 	pilihan = int (input("masukan pilihan anda : "))
 	return pilihan
-#========
+
 
 pilihan = True 
 while (pilihan<4) :
