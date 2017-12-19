@@ -7,7 +7,7 @@ def option():
 	pilihan = int (input("masukan pilihan anda : "))
 	return pilihan
 
-
+#======
 pilihan = True 
 while (pilihan<4) :
 	pilihan = option()
